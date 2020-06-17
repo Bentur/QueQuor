@@ -1,0 +1,17 @@
+menu sur le coté :
+eteindre
+catégories
+recherche
+random/alphabe
+nuit/jour
+next
+previous
+start
+
+_____________________________________________
+compile the program :
+pip install pyinstaller
+
+pyinstaller interface_3.0.py
+
+https://stackoverflow.com/questions/5458048/how-to-make-a-python-script-standalone-executable-to-run-without-any-dependency
